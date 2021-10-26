@@ -16,7 +16,7 @@ td {
 
 table {
 	border: 1px solid black;
-	border-collapse: collapse;
+	border-left: 4px solid #000;
 	width: 100%;
 	background-color: white;
 }
@@ -26,4 +26,8 @@ table {
   	margin-left: auto;
   	margin-right: auto;
   	width: 50%;
+}
+
+h2 {
+	text-align: center;
 }
