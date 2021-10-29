@@ -59,7 +59,6 @@ h1, h2 {
 /* New topnav menu */
 .topnav {
   overflow: hidden;
-  border-radius: 5px;
 }
 
 .topnav a {
