@@ -5,7 +5,7 @@ body {
 	margin-right: 20%;
 	margin-left: 20%;
 	margin-bottom: 5%;
-	padding: 30px;
+	padding: 0 15px 15px 15px;
 	font-family: Calibri;
 	background-color: #F5F5F5;
 }
@@ -54,6 +54,15 @@ h1, h2 {
 	letter-spacing: -1px; 
 	line-height: 1; 
 	text-align: center;
+}
+
+/* H2 with background picture */
+h2 {
+	background-image: url("https://i.imgur.com/HLkImVW.jpeg");
+	background-size: cover;
+	padding: 50px;
+	border-radius: 3px;
+	color: white;
 }
 
 /* New topnav menu */
