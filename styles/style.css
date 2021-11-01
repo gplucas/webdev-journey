@@ -37,6 +37,19 @@ table {
 	background-color: white;
 }
 
+
+/* Table The Road */
+table.table-the-road {
+	border: none;
+	background-color: #d3d3d3;
+}
+
+.completed {
+	background-color: green;
+	color: white;
+	font-size: 12px;
+}
+
 /* Icons design */
 .center {
 	display: block;
