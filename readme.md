@@ -1,4 +1,4 @@
-# My Web Development journey
+# My Web Development Journey
 
 My personal project.
 ## Appendix
