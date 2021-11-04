@@ -81,6 +81,10 @@ https://contribute.jquery.org/style-guide/js/
 
 https://google.github.io/styleguide/jsguide.html
 
+https://flaviocopes.com/javascript-debugging/
+
+https://javascript.info/debugging-chrome
+
 The Browser 
 
 https://en.wikipedia.org/wiki/Web_standards
