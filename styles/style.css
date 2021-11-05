@@ -89,6 +89,11 @@ h2 {
 	color: white;
 }
 
+h1 {
+	color: white;
+	background-color: black;
+}
+
 /* New topnav menu */
 .topnav {
   overflow: hidden;
