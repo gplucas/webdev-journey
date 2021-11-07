@@ -17,8 +17,26 @@ body {
 
 .footer {
 	background-color: #696969;
-	padding: 30px;
+  padding: 40px;
 	border-radius: 3px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/* Footer columns testing */
+.footer-left {
+	float: left;
+	width: 50%;
+	margin: auto;
+}
+
+.footer-right {
+	text-align: right;
+	float: right;
+	color: white;
+	width: 50%;
+	margin: auto;
 }
 
 /* Table design */
