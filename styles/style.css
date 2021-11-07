@@ -16,7 +16,7 @@ body {
 }
 
 .footer {
-	background-color: #696969;
+	background-color: #353839;
   padding: 40px;
 	border-radius: 3px;
 	display: flex;
@@ -24,7 +24,7 @@ body {
 	align-items: center;
 }
 
-/* Footer columns testing */
+/* Footer columns */
 .footer-left {
 	float: left;
 	width: 50%;
@@ -62,6 +62,7 @@ table.table-the-road {
 	background-color: #d3d3d3;
 }
 
+/* Completed green word */
 .completed {
 	background-color: green;
 	color: white;
@@ -73,11 +74,6 @@ table.table-the-road {
 	display: block;
   margin-left: auto;
   margin-right: auto;
-}
-
-/* Paragraph center */
-.centre {
-	text-align: center;
 }
 
 /* The title */
@@ -109,7 +105,7 @@ h2 {
 
 h1 {
 	color: white;
-	background-color: black;
+	background-color: #353839;
 }
 
 /* New topnav menu */
