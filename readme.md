@@ -30,3 +30,13 @@ https://www.w3.org/Style/CSS/read.en.html
 https://en.wikipedia.org/wiki/Comparison_of_browser_engines
 
 https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+
+Package Managers
+
+https://www.freecodecamp.org/news/javascript-package-managers-101-9afd926add0a/
+
+https://docs.npmjs.com/about-npm
+
+https://docs.npmjs.com/getting-started
+
+https://classic.yarnpkg.com/en/docs/getting-started
