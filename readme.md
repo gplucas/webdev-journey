@@ -40,3 +40,13 @@ https://docs.npmjs.com/about-npm
 https://docs.npmjs.com/getting-started
 
 https://classic.yarnpkg.com/en/docs/getting-started
+
+Module Bundlers
+
+https://rollupjs.org/guide/en/
+
+https://webpack.js.org/guides/getting-started/
+
+https://parceljs.org/
+
+https://www.snowpack.dev/
