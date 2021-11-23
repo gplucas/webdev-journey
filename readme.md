@@ -52,3 +52,17 @@ https://www.taniarascia.com/getting-started-with-vue/
 https://reactjs.org/
 
 https://www.taniarascia.com/getting-started-with-react/
+
+https://angular.io/
+
+https://angular.io/cli
+
+https://svelte.dev/
+
+https://svelte.dev/blog/svelte-3-rethinking-reactivity
+
+https://stenciljs.com/
+
+https://alligator.io/stencil/getting-started/
+
+https://codeburst.io/how-to-build-web-components-using-stenciljs-afacc5451c2d
