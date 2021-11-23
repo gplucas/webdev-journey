@@ -40,3 +40,15 @@ https://nodejs.org/en/docs/guides/
 https://postcss.org/
 
 https://sass-lang.com/guide
+
+Frameworks & Libraries
+
+https://vuejs.org/
+
+https://cli.vuejs.org/
+
+https://www.taniarascia.com/getting-started-with-vue/
+
+https://reactjs.org/
+
+https://www.taniarascia.com/getting-started-with-react/
